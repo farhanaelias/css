@@ -1,0 +1,23 @@
+th{
+    
+    color:darkblue;
+    font-size:30px;
+}
+tr{
+     
+     text-align:center;
+     background-color: lightslategrey;
+}
+
+.a1{
+    background-color: coral;
+}
+.a2{
+    background-color: mediumturquoise;
+}
+.a3{
+    background-color: cadetblue;
+}
+.a4{
+    background-color:lightgreen;
+}
